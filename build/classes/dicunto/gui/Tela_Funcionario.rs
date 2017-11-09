@@ -1,0 +1,5 @@
+gigasoft_dicunto.Tela_Funcionario
+gigasoft_dicunto.Tela_Funcionario$1
+gigasoft_dicunto.Tela_Funcionario$2
+gigasoft_dicunto.Tela_Funcionario$3
+gigasoft_dicunto.Tela_Funcionario$4

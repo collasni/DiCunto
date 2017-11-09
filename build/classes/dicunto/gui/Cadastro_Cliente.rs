@@ -1,0 +1,2 @@
+gigasoft_dicunto.Cadastro_Cliente
+gigasoft_dicunto.Cadastro_Cliente$1

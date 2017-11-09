@@ -1,0 +1,13 @@
+0AFF2B  = verde dicuntu
+
+FFFF00	= amarelo dicuntu
+
+
+f91010 = vermelho dicuntu
+
+
+
+marrom = 6c2c15
+
+
+e29d26  = dourado dicuntu
